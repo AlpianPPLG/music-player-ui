@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className="bg-gray-900">
       <div className="mx-auto px-4 py-6 flex items-center justify-between">
-        <div className="text-2xl font-bold text-white">Spotify Clone</div>
+        <div className="text-2xl font-bold text-white">Music Player</div>
         <div className="hidden md:flex items-center space-x-4">
           <FaSearch className="text-gray-400" />
           <input
